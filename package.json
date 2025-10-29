@@ -1,0 +1,14 @@
+{
+  "name": "primeiros-passos-cypress",
+  "version": "1.0.0",
+  "description": "Este projeto contém testes automatizados utilizando **Cypress** para validar o fluxo de autenticação no sistema **[OrangeHRM](https://opensource-demo.orangehrmlive.com/)**, uma aplicação open source de gestão de Recursos Humanos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^15.3.0"
+  }
+}
